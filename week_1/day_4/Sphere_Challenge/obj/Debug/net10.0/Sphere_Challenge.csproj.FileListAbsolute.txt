@@ -1,0 +1,15 @@
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\bin\Debug\net10.0\Sphere_Challenge.exe
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\bin\Debug\net10.0\Sphere_Challenge.deps.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\bin\Debug\net10.0\Sphere_Challenge.runtimeconfig.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\bin\Debug\net10.0\Sphere_Challenge.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\bin\Debug\net10.0\Sphere_Challenge.pdb
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.AssemblyInfoInputs.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.AssemblyInfo.cs
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.sourcelink.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\refint\Sphere_Challenge.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.pdb
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\Sphere_Challenge.genruntimeconfig.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\Sphere_Challenge\obj\Debug\net10.0\ref\Sphere_Challenge.dll

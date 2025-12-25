@@ -1,0 +1,15 @@
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.AssemblyInfoInputs.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.AssemblyInfo.cs
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.csproj.CoreCompileInputs.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.sourcelink.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\bin\Debug\net10.0\day_4.exe
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\bin\Debug\net10.0\day_4.deps.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\bin\Debug\net10.0\day_4.runtimeconfig.json
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\bin\Debug\net10.0\day_4.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\bin\Debug\net10.0\day_4.pdb
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\refint\day_4.dll
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.pdb
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\day_4.genruntimeconfig.cache
+C:\Users\Yassir\Desktop\New folder\week_1\day_4\ATM_Machine\obj\Debug\net10.0\ref\day_4.dll
