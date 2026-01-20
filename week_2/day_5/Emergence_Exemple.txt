@@ -1,0 +1,1 @@
+In Half-Life, players use bunny hopping to move faster than intended. This comes from the interaction between the movement physics and air acceleration systems

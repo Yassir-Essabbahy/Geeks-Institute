@@ -1,0 +1,1 @@
+In Half-Life, the health and ammo system is a balancing loop: when the player is low on health or ammo, the game places more supplies nearby, helping the player recover and preventing constant failure
