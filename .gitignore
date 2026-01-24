@@ -1,0 +1,12 @@
+# Unity Build folders (do not commit)
+[Bb]uild/
+[Bb]uilds/
+Beta-PC/
+*.exe
+*.apk
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
