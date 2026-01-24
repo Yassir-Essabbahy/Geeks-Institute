@@ -14,4 +14,4 @@ https://github.com/Yassir-Essabbahy/Geeks-Institute/releases/tag/v0.5-Beta
 
 ![Hallway](s4.png)
 
-![PC Desktop](s1.png)
+![PC Desktop](s5.png)
