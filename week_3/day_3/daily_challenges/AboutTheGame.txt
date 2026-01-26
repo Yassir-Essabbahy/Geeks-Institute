@@ -1,0 +1,14 @@
+One-line idea (Player → Verb → Goal)
+Player → observes and times movement → cross as many dangerous streets as possible.
+
+Goal
+Safely cross the maximum number of streets without getting hit.
+
+Rules (2)
+
+Vehicles move at different speeds and patterns.
+
+One collision instantly ends the run.
+
+Feedback (1)
+Risky crossings grant score multipliers and intense sound/visual effects.

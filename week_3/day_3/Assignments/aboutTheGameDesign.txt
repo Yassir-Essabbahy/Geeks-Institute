@@ -1,0 +1,37 @@
+Goal
+
+Cross as many streets as possible without getting hit.
+
+Rules
+
+Vehicles move at different speeds
+
+Traffic lights change dynamically
+
+One hit = death
+
+Core Loop
+
+Observe traffic → Move or wait → Cross → Score increases
+
+Feedback
+
+Crossing high-risk streets (fast / luxury cars) gives x3 score multiplier
+
+Near misses give bonus points and strong sound/visual feedback
+
+SCAMPER
+
+Substitute: cars → bikes, animals, robots
+
+Combine: crossing + time pressure or collectibles
+
+Adapt: Frogger-style moving platforms (buses)
+
+Modify: narrower streets, faster cars
+
+Put to use: road-safety learning for kids
+
+Eliminate: no traffic lights, rely on sight & sound
+
+Reverse: control traffic to keep pedestrians safe

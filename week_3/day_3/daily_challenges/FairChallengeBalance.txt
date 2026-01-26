@@ -1,0 +1,8 @@
+Fairness Tool
+Add a short spawn-safe delay when the player enters a new street. Cars can’t hit the player for a brief moment, giving beginners time to read traffic and avoid unfair deaths.
+
+Tuning Knobs
+
+Vehicle speed range: Lower minimum speed at early stages to help players learn patterns without panic.
+
+Traffic density: Start with fewer vehicles and gradually increase to control difficulty ramp.

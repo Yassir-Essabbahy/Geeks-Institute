@@ -1,0 +1,8 @@
+Accessibility Features
+
+High-contrast mode – Option in Settings; makes cars and lanes stand out clearly.
+
+Audio danger cues – In gameplay; engine volume increases as cars get closer.
+
+In-game Prompt
+“Listen to the engines. If it sounds close, wait.”

@@ -1,0 +1,14 @@
+Goal
+Cross as many streets as possible without getting hit.
+
+Rules
+
+Vehicles move at different speeds and patterns.
+
+One collision immediately ends the run.
+
+Feedback
+
+Success: Score increases with multipliers, plus strong sound and visual effects.
+
+Failure: Sudden stop, crash sound, screen shake, and instant restart prompt.

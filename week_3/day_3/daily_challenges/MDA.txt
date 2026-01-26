@@ -1,0 +1,10 @@
+Mechanics & Feelings
+
+Different car speeds → Keeps the player alert and nervous because patterns aren’t predictable
+
+Instant death on hit → Makes every decision feel serious and risky
+
+Risk-based score multiplier → Encourages players to take bold moves instead of always playing safe
+
+Removing a Mechanic
+If instant death is removed, the tension drops a lot. Players would rush more and make careless moves, and the game would feel less intense and more forgiving overall.

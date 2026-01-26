@@ -1,0 +1,12 @@
+Core Loop
+Do carefully observe traffic and cross streets - Get points and score multipliers - Unlock/Prepare harder streets with faster, crazier vehicles - Repeat
+
+New Mechanic Progression (Risk Multiplier)
+
+Teach: Player crosses a street with slightly faster cars and sees a small x2 multiplier
+
+Test: Streets introduce mixed speeds and tighter gaps to maintain the multiplier
+
+Twist: No traffic lights; player must rely on sound and visual cues to keep the multiplier
+
+Master: Extremely fast and unpredictable traffic where only perfect timing keeps the bonus alive
