@@ -3,7 +3,7 @@
 🔹 Platform: Windows (PC)
 
 👉 Download the build:
-https://github.com/Yassir-Essabbahy/Geeks-Institute/releases/tag/v0.5-Beta
+https://github.com/Yassir-Essabbahy/Core_Systems/releases/tag/build
 
 ## 📸 Screenshot
 
