@@ -1,4 +1,0 @@
-good morning everyone and thank you for being here
-we'd like to present our project
-what if a house remembers something that you are about to forget
-Recording 0217 is a first person psychological horror game, it focuses on story atmosphere and repitition, you explore a family house where time feels broken. the one page document shows the main idea of the project, it explains the vision before the details, now my teammates will explain how we built this experience
