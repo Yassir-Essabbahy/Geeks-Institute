@@ -1,9 +1,9 @@
 
 ## 📸 Screenshot
 
-![s1](s1.png)
+![s1](s1.PNG)
 
-![s2](s2.png)
+![s2](s2.PNG)
 
 ![s3](s3.png)
 
