@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\Sphere_Challenge\\Sphere_Challenge.csproj",
+      "projectUniqueName": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\Daily_Challenge\\Sphere_Challenge\\Sphere_Challenge.csproj",
       "projectName": "Sphere_Challenge",
-      "projectPath": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\Sphere_Challenge\\Sphere_Challenge.csproj",
+      "projectPath": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\Daily_Challenge\\Sphere_Challenge\\Sphere_Challenge.csproj",
       "packagesPath": "C:\\Users\\Yassir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\Sphere_Challenge\\obj\\",
+      "outputPath": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\Daily_Challenge\\Sphere_Challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yassir\\AppData\\Roaming\\NuGet\\NuGet.Config"

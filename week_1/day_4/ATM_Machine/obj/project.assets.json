@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\ATM_Machine\\day_4.csproj",
+      "projectUniqueName": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\ATM_Machine\\day_4.csproj",
       "projectName": "day_4",
-      "projectPath": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\ATM_Machine\\day_4.csproj",
+      "projectPath": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\ATM_Machine\\day_4.csproj",
       "packagesPath": "C:\\Users\\Yassir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yassir\\Desktop\\New folder\\week_1\\day_4\\ATM_Machine\\obj\\",
+      "outputPath": "C:\\Users\\Yassir\\Documents\\Geeks-Institute\\week_1\\day_4\\ATM_Machine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yassir\\AppData\\Roaming\\NuGet\\NuGet.Config"
