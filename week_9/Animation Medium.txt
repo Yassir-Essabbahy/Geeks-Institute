@@ -1,0 +1,5 @@
+B) Hand-drawn Fire or Water effects
+
+A) Keyframes are the main poses; In-betweens are the frames that connect them
+
+B) Holding one drawing for two frames (resulting in 12 drawings per second)
